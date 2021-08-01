@@ -1,4 +1,4 @@
----
+---0x00000000219ab540356cbb839cbe05303d7705fa
 title: Access permissions on GitHub
 redirect_from:
   - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do/
